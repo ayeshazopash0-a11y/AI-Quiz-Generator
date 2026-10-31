@@ -1,0 +1,38 @@
+{
+    "topic": "ai",
+    "questions": [
+        {
+            "question": "What does AI stand for?",
+            "options": [
+                "Artificial Intelligence",
+                "Auto Internet",
+                "Advanced Input",
+                "Artificial Interface"
+            ],
+            "correct_answer": "Artificial Intelligence",
+            "explanation": "AI means Artificial Intelligence."
+        },
+        {
+            "question": "What is an LLM?",
+            "options": [
+                "Large Language Model",
+                "Local Logic Machine",
+                "Linked Learning Mode",
+                "Long List Method"
+            ],
+            "correct_answer": "Large Language Model",
+            "explanation": "LLMs process and generate language."
+        },
+        {
+            "question": "What is machine learning?",
+            "options": [
+                "Learning from data",
+                "Writing HTML",
+                "Building hardware",
+                "Manual typing"
+            ],
+            "correct_answer": "Learning from data",
+            "explanation": "Machine learning finds patterns in data."
+        }
+    ]
+}
